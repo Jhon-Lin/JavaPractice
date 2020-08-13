@@ -7,4 +7,9 @@ public class Demo01 {
         int b = 5;
 
     }
+
+    public void test(){
+
+        System.out.println("我来了");
+    }
 }
